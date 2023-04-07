@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "omei",
+      "lastName": "lee",
+      "email": "omei@gmail.com",
+      "dob": "2023-04-11T22:00:00.000Z",
+      "gender": "2",
+      "education": "Post Graduate",
+      "company": "google",
+      "experience": 2,
+      "package": 80000,
+      "id": 1
+    },
+    {
+      "firstName": "esque",
+      "lastName": "Kafka",
+      "email": "kafkaesque@gmail.com",
+      "dob": "2023-04-09T22:00:00.000Z",
+      "gender": "1",
+      "education": "Post Graduate",
+      "company": "Praguelean",
+      "experience": 19,
+      "package": 3000,
+      "id": 3
+    },
+    {
+      "firstName": "zizek",
+      "lastName": "slavoj",
+      "email": "marxismitis@gmail.com",
+      "dob": "2023-04-13T22:00:00.000Z",
+      "gender": "1",
+      "education": "Matric",
+      "company": "NoCompany",
+      "experience": 30,
+      "package": 7000,
+      "id": 5
+    },
+    {
+      "firstName": "dart",
+      "lastName": "flutter",
+      "email": "flutterdart@contact.io",
+      "dob": "2023-04-01T22:00:00.000Z",
+      "gender": "2",
+      "education": "Matric",
+      "company": "dartCompany",
+      "experience": 25,
+      "package": 2000,
+      "id": 7
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test",
+      "dob": "2023-04-02T22:00:00.000Z",
+      "gender": "",
+      "education": "Post Graduate",
+      "company": "test",
+      "experience": 5,
+      "package": 5,
+      "id": 9
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test@gmail.com",
+      "dob": "2023-04-02T22:00:00.000Z",
+      "gender": "",
+      "education": "Post Graduate",
+      "company": "test",
+      "experience": 5,
+      "package": 5,
+      "id": 10
+    }
+  ]
+}
